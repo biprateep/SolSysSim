@@ -7,4 +7,4 @@ NOTE: The code uses the "classic" visual python (Vpython 6) which is now unsuppo
 
 The code has not been tested on the new Vpython which is significantly different than the "classic" version.
 
-A PDF file describing the algorithms and results are also added in the repo
+A PDF file describing the algorithms and results is also added in the repo
